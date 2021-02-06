@@ -30,7 +30,7 @@ twitter_username: krunal_wrote
 github_username: Noob-can-Compile
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
